@@ -1,7 +1,2 @@
-12
-2
-3
-4
-5
-6
-7
+hello this is my git 
+git is good for u to control u program
