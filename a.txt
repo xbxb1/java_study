@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello this is my git 
 git is good for u to control u program
+12
+4
+5
